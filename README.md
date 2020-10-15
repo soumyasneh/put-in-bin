@@ -1,2 +1,1 @@
-# MatterJSBoilerPlate
-MatterJSBoilerPlate
+put in bin
